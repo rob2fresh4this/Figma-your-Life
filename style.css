@@ -1,0 +1,56 @@
+.center-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.bottom-right-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.texbox-edit {
+  background-color: bisque;
+}
+
+.button-size {
+  width: 10%;
+}
+
+.interestsBackground {
+    background-repeat: no-repeat ;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 25%;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-items{
+    display: flex;
+    width: 30%;
+}
+
+.move-left{
+    margin-right: 10%;
+}
+
+
+.size-img1 {
+    width: 50%;
+}
+
+.backgroundControlForAccomp {
+    background-repeat: no-repeat ;
+    background-size: 130%;
+}
+
+.list-cont {
+    width: 40%;
+}
