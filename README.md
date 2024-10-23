@@ -16,9 +16,9 @@ Dates
 - 10/21/24 figma done
 - 10/22/24 final
 
-Peer Reviewed:
+Peer Reviewed: Anthony Duran
 
-Notes:
+Notes: The code works fine and it gets the job done, but i dont understand the point of the Next button if its not on any other page and if there isnt a button to also take you to the acomplishments page, probubly just remove the next button and have the user navigate with the top bar. The intrests page layout dosent look good on the eyes.
 
 
 
